@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectX", "DirectX\DirectX.vcxproj", "{5D3E643C-131B-4B15-9572-21EB6E9276A2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DX11_Desktop", "DX11_Desktop\DX11_Desktop.vcxproj", "{CB7B75A3-0284-4809-B8FA-108048864353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3E643C-131B-4B15-9572-21EB6E9276A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D3E643C-131B-4B15-9572-21EB6E9276A2}.Debug|Win32.Build.0 = Debug|Win32
+		{5D3E643C-131B-4B15-9572-21EB6E9276A2}.Release|Win32.ActiveCfg = Release|Win32
+		{5D3E643C-131B-4B15-9572-21EB6E9276A2}.Release|Win32.Build.0 = Release|Win32
+		{CB7B75A3-0284-4809-B8FA-108048864353}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB7B75A3-0284-4809-B8FA-108048864353}.Debug|Win32.Build.0 = Debug|Win32
+		{CB7B75A3-0284-4809-B8FA-108048864353}.Release|Win32.ActiveCfg = Release|Win32
+		{CB7B75A3-0284-4809-B8FA-108048864353}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
